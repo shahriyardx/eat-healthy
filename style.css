@@ -138,6 +138,7 @@
 
 .counter {
   padding: 30px;
+  padding-bottom: 100px;
 }
 .counter .container {
   display: grid;
