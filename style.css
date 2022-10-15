@@ -156,4 +156,18 @@
 }
 .counter .container .count p {
   color: #636363;
+}
+
+footer {
+  background: black;
+  text-align: center;
+  color: #636363;
+  padding: 50px 20px;
+}
+footer h1 {
+  color: #363636;
+}
+footer p {
+  margin-top: 10px;
+  color: #636363;
 }/*# sourceMappingURL=style.css.map */
