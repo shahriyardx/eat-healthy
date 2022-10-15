@@ -93,4 +93,19 @@
 }
 .about .info button {
   margin-top: 30px;
+}
+
+.recipes {
+  padding-block: 100px;
+}
+.recipes .header {
+  text-align: center;
+}
+.recipes .header h1 {
+  font-size: 30px;
+  color: #363636;
+}
+.recipes .header p {
+  margin-top: 10px;
+  color: #636363;
 }/*# sourceMappingURL=style.css.map */
