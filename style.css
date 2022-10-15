@@ -48,4 +48,16 @@
 }
 .hero .info button {
   margin-top: 30px;
+}
+.hero .image {
+  display: flex;
+  flex-direction: column;
+  background-image: url(./images/shapes/Group\ 8450.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hero .image img {
+  width: 500px;
+  height: 500px;
 }/*# sourceMappingURL=style.css.map */
