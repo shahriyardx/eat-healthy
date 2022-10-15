@@ -27,6 +27,9 @@ header .menu .logo {
   color: white;
   font-weight: bold;
 }
+header .menu .logo span {
+  color: red;
+}
 header .menu ul {
   display: flex;
   gap: 10px;
