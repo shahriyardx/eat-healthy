@@ -134,4 +134,26 @@
 .recipe .recipe_items .item p {
   margin-top: 15px;
   color: #636363;
+}
+
+.counter {
+  padding: 30px;
+}
+.counter .container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  box-shadow: 1px 1px 35px 3px rgba(0, 0, 0, 0.19);
+  padding: 70px 20px;
+  border-radius: 30px;
+}
+.counter .container .count {
+  text-align: center;
+}
+.counter .container .count h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+.counter .container .count p {
+  color: #636363;
 }/*# sourceMappingURL=style.css.map */
